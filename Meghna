@@ -1,0 +1,163 @@
+<html>
+ <head>
+<title> Meghna Dasgupta CV </title>
+<style>
+table, th, td{
+  border:1px solid rgb(243, 20, 13);
+  
+}
+body {
+  font-family: times new roman ;
+  font-size: 15px;
+}
+</style> 
+</head>
+<body style="background-color:rgb(205, 255, 255)">
+<div id="header">
+<h1 id="name" style="background-color:rgb(255, 182, 193)"><b>Name:  MEGHNA DASGUPTA </b></h1>
+<img src = "meghna.jpeg" alt = "pic" width="200" height="200"> 
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3 style="background-color:rgb(205, 250, 108)">CV Highlights:</h3>
+            <p style="background-color:rgb(235, 250, 108)">
+            <ul>
+                <li> I have completed few certification courses in Java, Python and CSS .</li>
+               
+                <li>Good Communication Skills, Presentation Skills, Technical skills, a good leadership quality and a very good team worker.</li></ul>
+            </p>
+            <hr>
+            
+            <table>
+                        <tr>
+                            <td> Javascript</td>
+                            <td> Advance </td>
+                        </tr>
+                        <tr>
+                         <td>java programming</td>
+                         <td> Intermediate </td>
+                        </tr>
+                        <tr>
+                         <td>python programming</td>
+                         <td> Intermediate </td>
+                        </tr>  
+                   <tr>
+                            <td> MATLAB </td>
+                            <td> Beginner </td>
+                        </tr>         
+                 <tr>
+                            <td> HTML </td>
+                            <td> Advance </td>
+                        </tr>
+               <tr>
+                            <td> PHP </td>
+                            <td> Beginner </td>
+                        </tr>
+            </tr>
+        
+                    </table>
+                    <hr>
+            <h3 style="background-color:rgb(205, 245, 108)">Educational Qualifications:</h3>
+
+            <table style="width:100%">
+                <thead>
+                    <tr>
+                    <th> Qualificatiom</th>
+                    <th>Year</th>
+                    <th>Name of Institute</th>
+                    <th>Percentage scored </th>
+                    
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>High school</td>
+                        <td>2006-2017</td>
+                        <td> Dr. Babasaheb Ambedkar Vidyalaya </td>
+                        <td> 89.20%</td>
+
+                    </tr> 
+                    <tr>
+                        <td>Junior college</td>
+                        <td>2017-2019</td>
+                        <td> Pace Junior Science College </td>
+                        <td>66%</td>
+                        
+                    </tr>
+                     <tr>
+                        <td> Graduation </td>
+                        <td>2019-2023</td>
+                        <td>K.C College of Engineering </td>
+                        <td>9.22 cgpa</td>
+                         
+                     </tr>
+                     </tbody>
+                     </table>
+            <h3 style="background-color:rgb(205, 245, 108)">Courses: </h3>
+            <p>
+            <ul>
+                
+                <li><span id="course-name">Python: Programming For Everybody </span> – Coursera</li>
+                <li>
+                <span id="course-name"> Python basics for data science</span> – Coursera </li>
+                <li>
+                <span id="course-name"> Machine learning for data science and analytics </span> – Coursera</li>
+                <li>
+                <span id="course-name"> AI for everyone </span> – edX </li>
+          <li>
+                <span id="course-name"> Cloud applications with Node.js and React </span> – edX</li>
+            </ul>
+            <h3>Technical Skills:</h3>
+            <p>
+            <ul>
+            <li>
+                <span id="course-name">MS Office: </span>Word, Excel, Powerpoint.</li>
+               <li> 
+                <span id="course-name">Programming Skills: </span>HTML, CSS, Python, JavaScript, Java, C, C++, MATLAB, SQL, PHP</li></ul>
+            </p>
+     
+                   <hr>
+            <h3 style="background-color:rgb(205, 245, 108)"> Internship details:  </h3>
+       <p>
+      <ul>
+      <li>    Dezignolics Web and Software Solutions </li>
+ 1) Core Python 
+<li>Contact storage with text file database. </li>
+ <li> Inventory management with text file database. </li>
+I worked on it independently and collaborated for the same with team at end and completed the project work.  </ul>
+</p>
+
+            <hr>
+            <h3 style="background-color:rgb(205, 245, 108)">Personal Information: </h3>
+
+            <p>
+            <ul>
+                <li>
+            I am currently pursuing my Bachelor’s of Engineering in Information Technology from K.C. College of Engineering and Management Studies and Research. I have been passionate about this field ever since my school days. </li>
+     <li>  I have gathered few skills for upgrading my knowledge, which involves advance grasp over HTML, Javascript, and C++.</li>
+<li> 
+                <span id="course-name">Languages Known: </span>English, Hindi, Marathi, Bengali</li>
+                <li>
+                <span id="course-name">Hobbies: </span> I really like anchoring and have done hosting for my school and college events. My hobbies include dancing, singing and painting.</li> </ul>
+            </p>
+            
+            <hr>
+            <h3>Important Links:</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">LinkedIn Account Link:</span><br><a href="https://www.linkedin.com/in/meghna-dasgupta-579351218 "> My LinkedIn account link .</a> </li>
+                <li>
+                <span id="course-name">Address: </span><br><<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2759.9782568364008!2d72.90467158764852!3d19.09773405413345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c7d73deaf123%3A0x4873f34daf427461!2zMTnCsDA1JzQ5LjciTiA3MsKwNTQnMTIuMCJF!5e0!3m2!1sen!2sin!4v1632908095085!5m2!1sen!2sin    " width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
+                </li>
+            </ul>
+            </p>
+            <h3>Declaration:</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
